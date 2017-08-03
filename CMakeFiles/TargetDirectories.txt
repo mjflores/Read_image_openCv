@@ -1,0 +1,1 @@
+/home/deee/Escritorio/LeerImagenOpenCv/CMakeFiles/LeerImagen.dir
