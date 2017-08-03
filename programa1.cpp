@@ -15,7 +15,7 @@ int main(void )
 {
 
     Mat imgColor;
-    imgColor = imread( "/home/deee/Escritorio/LeerImagenOpenCv/Imagen/TIH_ST128.jpg", 1 );
+    imgColor = imread( "/home/deee/Escritorio/LeerImagenOpenCv/Imagen/TIH_ST128.jpg", 0 );
 
     if ( !imgColor.data )
     {
