@@ -15,6 +15,7 @@
 
 using namespace cv;
 
+
 int main(void )
 {
 
@@ -24,7 +25,7 @@ int main(void )
     if ( !imgColor.data )
     {
         printf("No image data \n");
-//        return -1;
+        //return -1;
 	exit(-1);
     }
 
