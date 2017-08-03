@@ -9,12 +9,7 @@
 //=========================================
 
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <opencv2/opencv.hpp>
-
-using namespace cv;
-
+#include "varios.h"
 
 int main(void )
 {
@@ -24,9 +19,8 @@ int main(void )
 
     if ( !imgColor.data )
     {
-        printf("No image data \n");
-        //return -1;
-	exit(-1);
+        printf("<Error> No image data \n");
+        return -1;
     }
 
     namedWindow("Imagen Color", WINDOW_AUTOSIZE );
