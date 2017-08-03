@@ -1,6 +1,6 @@
 
-#ifndef "VARIOS_H"
-#define "VARIOS_H"
+#ifndef VARIOS_H_
+#define VARIOS_H_
 
 #include <stdio.h>
 #include <stdlib.h>
