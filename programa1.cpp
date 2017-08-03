@@ -19,7 +19,7 @@ int main(void )
 
     if ( !imgColor.data )
     {
-        printf("<Error> No image data \n");
+        printf("<Error:> No image data \n");
         return -1;
     }
 
