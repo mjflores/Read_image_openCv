@@ -1,5 +1,5 @@
 OpenCv 3.10
 
-Este proyecto presenta un ejemplo usando OpenCv 3.10 y cmake
+This project presents an example by using OpenCv 3.10 and Cmake
 
-Lee una foto de la carpeta Imagen y la visualiza
+Read an image from the Image folder and view it
