@@ -15,7 +15,7 @@ int main(void )
 {
 
     Mat imgColor;
-    imgColor = imread( "/home/deee/Escritorio/LeerImagenOpenCv/Imagen/p205.bmp", 1 );
+    imgColor = imread( "../Imagen/p205.bmp", 1 );
 
     if ( !imgColor.data )
     {
